@@ -21,21 +21,12 @@
 <h2>🛠 Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust,python,java,js,ts,react,nextjs,nodejs,tailwind,linux,bash,git,docker,postgres,pytorch&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,ts,react,nextjs,nodejs,tailwind,linux,git,docker,postgres,pytorch&perline=9" />
 </p>
 
 ---
 
-<h2>📈 GitHub Stats</h2>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pixelrahulnotfound&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pixelrahulnotfound&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelrahulnotfound&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
